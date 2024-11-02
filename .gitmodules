@@ -3,7 +3,7 @@
 	url = git@github.com:MechanicalPython/module1a.git
 [submodule "module1b"]
 	path = module1b
-	url = ../jhub-module1b/.git
+	url = git@github.com:MechanicalPython/module1b.git
 [submodule "module2"]
 	path = module2
 	url = ../jhub-module2/.git
