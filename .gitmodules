@@ -13,3 +13,6 @@
 [submodule "module4c"]
 	path = module4c
 	url = git@github.com:MechanicalPython/module4c.git
+[submodule "module5"]
+	path = module5
+	url = https://github.com/MechanicalPython/module5
